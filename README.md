@@ -16,4 +16,4 @@ The proposed system combines deep visual features extracted by **DenseNet-169** 
 - Optimize prediction thresholds for each genre.
 
 ## Pipeline
-![image alt](https://github.com/hongochai2510/Movie_Genre/blob/master/pl.png?raw=true)
+![image alt](https://github.com/hongochai2510/Movie_Genre/blob/6d0fe8049bd4e8d8cf3abd96a2c45cc845e897a2/pipe.png)
