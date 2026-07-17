@@ -9,7 +9,7 @@ The proposed system combines deep visual features extracted by **DenseNet-169** 
 ## Objectives
 
 - Build a multi-label movie genre classification system.
-- Extract visual representations using DenseNet-169.
+- Extract visual representations using DenseNet-169 (Fine-tuning).
 - Detect semantic objects using YOLOv8.
 - Reduce feature dimensionality using Truncated SVD, Feature Selection and Non-SVD.
 - Compare LightGBM and XGBoost.
