@@ -17,3 +17,9 @@ The proposed system combines deep visual features extracted by **DenseNet-169** 
 
 ## Pipeline
 ![image alt](https://github.com/hongochai2510/Movie_Genre/blob/6d0fe8049bd4e8d8cf3abd96a2c45cc845e897a2/pipe.png)
+
+## Full Report
+
+For a detailed explanation of the project, including methodology, experiments, and analysis, please refer to:
+
+**[Movie Genre Classification from Posters (PDF)](PHÂN_LOẠI_DÒNG_PHIM_DỰA_TRÊN_POSTER.pdf)**
