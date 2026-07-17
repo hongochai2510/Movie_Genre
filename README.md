@@ -4,6 +4,8 @@
 Movie posters often contain visual information that reflects the genre, mood, and theme of a film. This project focuses on the task of **multi-label movie genre classification** using only poster images.
 The proposed system combines deep visual features extracted by **DenseNet-169** with object-level semantic features detected by **YOLOv8**. These features are fused and used to train machine learning classifiers such as **LightGBM** and **XGBoost** for predicting multiple movie genres simultaneously.
 
+![image alt](https://github.com/hongochai2510/Movie_Genre/blob/128878c4468d53b1639069a088cfb2d97b4d0e5b/bt.png)
+
 ## Objectives
 
 - Build a multi-label movie genre classification system.
@@ -14,4 +16,4 @@ The proposed system combines deep visual features extracted by **DenseNet-169** 
 - Optimize prediction thresholds for each genre.
 
 ## Pipeline
-![Pipeline](images/pipeline.png)
+![image alt](https://github.com/hongochai2510/Movie_Genre/blob/128878c4468d53b1639069a088cfb2d97b4d0e5b/bt.png)
